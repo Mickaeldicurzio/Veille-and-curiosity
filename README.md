@@ -6,6 +6,7 @@ Just a veille file - fork me!
 
 [Apify](https://www.apify.com/)<br>
 [Rails Tutorial](https://www.railstutorial.org/book)<br>
+[Slide Rails Meet up - Adrien Maret](https://fr.slideshare.net/secret/MRg4pReolXaGjS)<br>
 
 ## --- Front-end ---
 
