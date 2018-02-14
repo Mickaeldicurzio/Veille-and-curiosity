@@ -44,3 +44,5 @@ Just a veille file - fork me!
 
 [Coolors](https://coolors.co/)<br>
 [Feather](https://feathericons.com/)<br>
+[Fontstruct](https://fontstruct.com/)<br>
+[GSAPjs](https://www.grafikart.fr/tutoriels/javascript/greensock-animation-platform-415)<br>
