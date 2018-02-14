@@ -15,3 +15,7 @@ Just a veille file - fork me!
 [Animate Css](https://daneden.github.io/animate.css/)<br>
 
 ## --- Others ---
+
+### Integration Continue :
+
+[CircleCi](https://circleci.com/)
