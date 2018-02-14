@@ -18,13 +18,13 @@ Just a veille file - fork me!
 (to tested)
 
 [Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
-[Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>    
+[Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>
 [Ungit](https://github.com/FredrikNoren/ungit)<br>
 [Kute](http://thednp.github.io/kute.js/)<br>
 [Micron](https://webkul.github.io/micron/)<br>
 [Progressively](https://thinker3197.github.io/progressively/)<br>
 [Stickybits](https://dollarshaveclub.github.io/stickybits/)<br>
-[Timeline](https://ilkeryilmaz.github.io/timelinejs/)
+[Timeline](https://ilkeryilmaz.github.io/timelinejs/)<br>
 
 
 ### Html - css :
@@ -36,7 +36,7 @@ Just a veille file - fork me!
 
 ### Integration Continue :
 
-[CircleCi](https://circleci.com/)
+[CircleCi](https://circleci.com/)<br>
 
 ### Design :
 
