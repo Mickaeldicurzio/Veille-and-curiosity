@@ -5,6 +5,7 @@ Just a veille file - fork me!
 ## --- Back-end ---
 
 [Apify](https://www.apify.com/)<br>
+[Rails Tutorial](https://www.railstutorial.org/book)<br>
 
 ## --- Front-end ---
 
