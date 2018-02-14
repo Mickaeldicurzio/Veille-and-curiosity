@@ -10,8 +10,13 @@ Just a veille file - fork me!
 
 ### Js:
 
-[Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
-[Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>
+(tested and used)
+
+[Scrollmagic](http://scrollmagic.io/)   [Animate](https://daneden.github.io/animate.css/)
+
+(to tested)
+
+[Amplitude Js](https://521dimensions.com/open-source/amplitudejs)   [Droppable (https://shopify.github.io/draggable/examples/unique-dropzone.html)    
 [Ungit](https://github.com/FredrikNoren/ungit)<br>
 [Kute](http://thednp.github.io/kute.js/)<br>
 [Micron](https://webkul.github.io/micron/)<br>
