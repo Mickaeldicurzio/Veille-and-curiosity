@@ -33,6 +33,7 @@ Just a veille file - fork me!
 
 [Parallax star background](https://codepen.io/saransh/pen/BKJun)<br>
 [Animate Css](https://daneden.github.io/animate.css/)<br>
+[heart anim](https://cssanimation.rocks/twitter-fave/)
 
 ## --- Others ---
 
