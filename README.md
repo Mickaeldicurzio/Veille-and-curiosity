@@ -38,6 +38,10 @@ Just a veille file - fork me!
 
 ## --- Others ---
 
+### Linux
+
+[Pense-bête](http://www.progeek.fr/cube-pense-bete-pour-distribution-linux/)<br>
+
 ### Integration Continue :
 
 [CircleCi](https://circleci.com/)<br>
