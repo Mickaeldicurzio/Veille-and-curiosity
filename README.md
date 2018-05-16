@@ -35,7 +35,8 @@ Just a veille file - fork me!
 
 [Parallax star background](https://codepen.io/saransh/pen/BKJun)<br>
 [Animate Css](https://daneden.github.io/animate.css/)<br>
-[heart anim](https://cssanimation.rocks/twitter-fave/)
+[heart anim](https://cssanimation.rocks/twitter-fave/)<br>
+[youtube with link for best parallax](https://www.youtube.com/watch?v=seD2YPrMHLA)
 
 ## --- Others ---
 
