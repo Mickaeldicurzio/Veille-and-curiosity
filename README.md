@@ -55,6 +55,7 @@ Just a veille file - fork me!
 [Fontstruct](https://fontstruct.com/)<br>
 [GSAPjs](https://www.grafikart.fr/tutoriels/javascript/greensock-animation-platform-415)<br>
 [FlatUI color](https://flatuicolors.com/palette/in)<br>
+[open Logos](https://github.com/arasatasaygin/openlogos)<br>
 
 ### Veille website:
 
