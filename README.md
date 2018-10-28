@@ -39,6 +39,7 @@ Just a veille file - fork me!
 [Animate Css](https://daneden.github.io/animate.css/)<br>
 [heart anim](https://cssanimation.rocks/twitter-fave/)<br>
 [youtube with link for best parallax](https://www.youtube.com/watch?v=seD2YPrMHLA)
+[UI gradient](https://hookagency.com/ui-gradients/)
 
 ## --- Others ---
 
