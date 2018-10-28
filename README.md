@@ -24,6 +24,7 @@ Just a veille file - fork me!
 
 [Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
 [Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>
+[Moon Flare](https://codepen.io/Nephaelin/pen/RJrpoL?page=5)
 [Ungit](https://github.com/FredrikNoren/ungit)<br>
 [Kute](http://thednp.github.io/kute.js/)<br>
 [Micron](https://webkul.github.io/micron/)<br>
