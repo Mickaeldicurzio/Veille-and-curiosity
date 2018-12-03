@@ -38,7 +38,7 @@ Just a veille file - fork me!
 [Parallax star background](https://codepen.io/saransh/pen/BKJun)<br>
 [Animate Css](https://daneden.github.io/animate.css/)<br>
 [heart anim](https://cssanimation.rocks/twitter-fave/)<br>
-[youtube with link for best parallax](https://www.youtube.com/watch?v=seD2YPrMHLA)
+[youtube with link for best parallax](https://www.youtube.com/watch?v=seD2YPrMHLA)<br>
 [UI gradient](https://hookagency.com/ui-gradients/)
 
 ## --- Others ---
@@ -60,6 +60,7 @@ Just a veille file - fork me!
 [FlatUI color](https://flatuicolors.com/palette/in)<br>
 [open Logos](https://github.com/arasatasaygin/openlogos)<br>
 [ICONS Nice](https://codepen.io/noahblon/pen/lxukH)<br>
+[ICON Monster]('https://iconmonstr.com/')<br>
 
 ### Veille website:
 
