@@ -61,6 +61,7 @@ Just a veille file - fork me!
 [open Logos](https://github.com/arasatasaygin/openlogos)<br>
 [ICONS Nice](https://codepen.io/noahblon/pen/lxukH)<br>
 [ICON Monster]('https://iconmonstr.com/')<br>
+[simpleIcons]('https://simpleicons.org/')
 
 ### Veille website:
 
