@@ -60,8 +60,8 @@ Just a veille file - fork me!
 [FlatUI color](https://flatuicolors.com/palette/in)<br>
 [open Logos](https://github.com/arasatasaygin/openlogos)<br>
 [ICONS Nice](https://codepen.io/noahblon/pen/lxukH)<br>
-[ICON Monster]('https://iconmonstr.com/')<br>
-[simpleIcons]('https://simpleicons.org/')
+[ICON Monster](https://iconmonstr.com/)<br>
+[simpleIcons](https://simpleicons.org/)
 
 ### Veille website:
 
