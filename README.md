@@ -7,6 +7,7 @@ Just a veille file - fork me!
 [Apify](https://www.apify.com/)<br>
 [Rails Tutorial](https://www.railstutorial.org/book)<br>
 [Slide Rails Meet up - Adrien Maret](https://fr.slideshare.net/secret/MRg4pReolXaGjS)<br>
+[REGEX PHONE NUMBER]( ^((\+)33|0|0033)[1-9](\d{2}){4}$ )<br>
 
 ## --- Front-end ---
 
