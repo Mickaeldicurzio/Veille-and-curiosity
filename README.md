@@ -8,6 +8,7 @@ Just a veille file - fork me!
 [Rails Tutorial](https://www.railstutorial.org/book)<br>
 [Slide Rails Meet up - Adrien Maret](https://fr.slideshare.net/secret/MRg4pReolXaGjS)<br>
 [REGEX PHONE NUMBER]( ^((\+)33|0|0033)[1-9](\d{2}){4}$ )<br>
+[Gitignore.io](https://gitignore.io/)<br>
 
 ## --- Front-end ---
 
