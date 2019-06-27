@@ -43,7 +43,8 @@ Just a veille file - fork me!
 [Animate Css](https://daneden.github.io/animate.css/)<br>
 [heart anim](https://cssanimation.rocks/twitter-fave/)<br>
 [youtube with link for best parallax](https://www.youtube.com/watch?v=seD2YPrMHLA)<br>
-[UI gradient](https://hookagency.com/ui-gradients/)
+[UI gradient](https://hookagency.com/ui-gradients/)<br>
+[LOADER Scrool Css](https://blog.internet-formation.fr/2016/08/creer-des-loaders-qui-suivent-le-defilement-scroll-des-pages-avec-jquery-et-css-3/)
 
 ## --- Others ---
 
