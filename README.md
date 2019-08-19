@@ -22,6 +22,7 @@ Just a veille file - fork me!
 [JQuery one page](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)<br>
 [Lite Server](https://github.com/johnpapa/lite-server)<br>
 [Tilt.js](https://gijsroge.github.io/tilt.js/)<br>
+[HOver effect](https://miketricking.github.io/bootstrap-image-hover/)
 
 (to tested)
 
