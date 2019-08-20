@@ -37,7 +37,8 @@ Just a veille file - fork me!
 [Timeline](https://ilkeryilmaz.github.io/timelinejs/)<br>
 [EventJS](https://www.zendevs.xyz/ce-que-vous-devriez-savoir-sur-les-evenements-js/)<br>
 [Article 1](https://www.jesuisundev.com/comprendre-javascript-en-5-minutes/)<br>
-[Pixis JS](https://www.pixijs.com/tutorials)
+[Pixis JS](https://www.pixijs.com/tutorials)<br>
+[locomotiemvt](https://github.com/locomotivemtl/locomotive-scroll)
 
 ### Html - css :
 
