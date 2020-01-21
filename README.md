@@ -23,7 +23,8 @@ Just a veille file - fork me!
 [JQuery one page](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)<br>
 [Lite Server](https://github.com/johnpapa/lite-server)<br>
 [Tilt.js](https://gijsroge.github.io/tilt.js/)<br>
-[HOver effect](https://miketricking.github.io/bootstrap-image-hover/)
+[HOver effect](https://miketricking.github.io/bootstrap-image-hover/)<br>
+[top 9 VUEJs library](https://medium.com/better-programming/9-vue-js-libraries-that-will-make-your-life-easier-5f14c09b0ce0)
 
 (to tested)
 
