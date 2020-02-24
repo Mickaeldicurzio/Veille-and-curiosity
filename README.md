@@ -25,7 +25,8 @@ Just a veille file - fork me!
 [Tilt.js](https://gijsroge.github.io/tilt.js/)<br>
 [HOver effect](https://miketricking.github.io/bootstrap-image-hover/)<br>
 [top 9 VUEJs library](https://medium.com/better-programming/9-vue-js-libraries-that-will-make-your-life-easier-5f14c09b0ce0)<br>
-[AJAX File upload without form](https://gist.github.com/w3villa/7561604)
+[AJAX File upload without form](https://gist.github.com/w3villa/7561604)<br>
+[gradients tool](https://cssgradient.io/)<br>
 
 (to tested)
 
