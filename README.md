@@ -10,7 +10,8 @@ Just a veille file - fork me!
 [REGEX PHONE NUMBER]( ^((\+)33|0|0033)[1-9](\d{2}){4}$ )<br>
 [Gitignore.io](https://gitignore.io/)<br>
 [git sheetSheat ](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)<br>
-[DDDViteFait](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)
+[DDDViteFait](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)<br>
+[passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)
 
 ## --- Front-end ---
 
