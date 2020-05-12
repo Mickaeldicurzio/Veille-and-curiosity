@@ -85,4 +85,5 @@ Just a veille file - fork me!
 ### Veille website:
 
 .[jolicode](https://jolicode.com/blog/)<br>
-.[Elec Signature](https://codepen.io/goker/pen/kbEdn)
+.[Elec Signature](https://codepen.io/goker/pen/kbEdn).<br> 
+.[Modern CSS](https://moderncss.dev/)<br>
