@@ -14,13 +14,17 @@ Just a veille file - fork me!
 [passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)
 [Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)
 
+### Js:
+
+[memoisation](https://www.jesuisundev.com/comprendre-la-memoisation-en-5-minutes/)<br>
+[APIRest](https://practicalprogramming.fr/node-js-api/)<br>
+
 ## --- Front-end ---
 
 ### Js:
 
 (tested and used)
 
-[APIRest](https://practicalprogramming.fr/node-js-api/)<br>
 [Scrollmagic](http://scrollmagic.io/)<br>
 [Animate](https://daneden.github.io/animate.css/)<br>
 [JQuery one page](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)<br>
