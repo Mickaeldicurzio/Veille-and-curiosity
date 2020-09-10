@@ -36,6 +36,7 @@ Just a veille file - fork me!
 [AJAX File upload without form](https://gist.github.com/w3villa/7561604)<br>
 [gradients tool](https://cssgradient.io/)<br>
 [gradients selection](https://webgradients.com/)<br>
+[LightBox](https://www.cssscript.com/image-viewer-spotlight/)
 
 (to tested)
 
