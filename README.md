@@ -40,6 +40,7 @@ Just a veille file - fork me!
 
 (to tested)
 
+[chart](https://gionkunz.github.io/chartist-js/)<br>
 [Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
 [Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>
 [Moon Flare](https://codepen.io/Nephaelin/pen/RJrpoL?page=5)
