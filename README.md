@@ -2,6 +2,10 @@
 
 Just a veille file - fork me!
 
+## --- FLutter / Firebase
+
+[Flutter to do and auth with interface and repository](https://medium.com/flutter-community/firestore-todos-with-flutter-bloc-7b2d5fadcc80)
+
 ## --- Back-end ---
 
 [Guriosity](https://guriosity.com/backend)<br>
