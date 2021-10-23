@@ -4,7 +4,7 @@ Just a veille file - fork me!
 
 ## --- FLutter / Firebase
 
-[Flutter login blocs](https://medium.com/flutter-community/firestore-todos-with-flutter-bloc-7b2d5fadcc80)
+[Flutter login blocs](https://medium.com/flutter-community/firestore-todos-with-flutter-bloc-7b2d5fadcc80)<br>
 [blocs state explixcation](https://blog.cellenza.com/mobilite/state-management-avec-bloc-en-flutter/)
 
 ## --- Back-end ---
