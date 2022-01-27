@@ -99,7 +99,8 @@ Just a veille file - fork me!
 [ICONS Nice](https://codepen.io/noahblon/pen/lxukH)<br>
 [ICON Monster](https://iconmonstr.com/)<br>
 [simpleIcons](https://simpleicons.org/)<br>
-[Loader](https://loading.io/)
+[Loader](https://loading.io/)<br>
+[hero background](https://heropatterns.com/)<br>
 
 ### Veille website:
 
