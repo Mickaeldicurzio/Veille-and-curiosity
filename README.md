@@ -100,6 +100,7 @@ Just a veille file - fork me!
 [ICON Monster](https://iconmonstr.com/)<br>
 [simpleIcons](https://simpleicons.org/)<br>
 [Loader](https://loading.io/)<br>
+[Spinner](https://github.com/n3r4zzurr0/svg-spinners)<br>
 [hero background](https://heropatterns.com/)<br>
 
 ### Veille website:
