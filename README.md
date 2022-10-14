@@ -49,10 +49,15 @@ Just a veille file - fork me!
 
 (to tested)
 
+#### layload
+
+[ lazoad ( small ) ](https://www.npmjs.com/package/lozad)
+[ lazysizes ( complex ) / patagonia  ](https://github.com/aFarkas/lazysizes)
+
 [chart](https://gionkunz.github.io/chartist-js/)<br>
 [Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
 [Droppable](https://shopify.github.io/draggable/examples/unique-dropzone.html)<br>
-[Moon Flare](https://codepen.io/Nephaelin/pen/RJrpoL?page=5)
+[Moon Flare](https://codepen.io/Nephaelin/pen/RJrpoL?page=5)<br>
 [Ungit](https://github.com/FredrikNoren/ungit)<br>
 [Kute](http://thednp.github.io/kute.js/)<br>
 [Micron](https://webkul.github.io/micron/)<br>
