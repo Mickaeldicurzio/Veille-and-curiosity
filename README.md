@@ -18,7 +18,8 @@ Just a veille file - fork me!
 [git sheetSheat ](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)<br>
 [DDDViteFait](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)<br>
 [passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)
-[Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)
+[Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)<br>
+[SPECIFICATION](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)
 
 ### Dart :
 [Learn Flutter](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm)
