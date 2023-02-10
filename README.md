@@ -11,6 +11,7 @@ Just a veille file - fork me!
 
 ### -- Symfony  ---
 
+[parse secret](https://github.com/mazen160/secrets-patterns-db)<br>
 [http2](https://symfony.com/doc/current/web_link.html)<br>
 [Mercure](https://symfony.com/blog/symfony-gets-real-time-push-capabilities)<br>
 [strategy](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
