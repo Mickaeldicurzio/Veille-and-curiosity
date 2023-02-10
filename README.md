@@ -19,6 +19,7 @@ Just a veille file - fork me!
 [real time](https://les-tilleuls.coop/blog/mercure-un-protocole-pour-pousser-des-mises-a-jour-vers-des-navigateurs-et-app-mobiles-en-temps-reel)<br>
 [Vulcain](https://github.com/dunglas/vulcain)
 [Frankenphp](https://frankenphp.dev/)<br>
+[Panther](https://dunglas.dev/2018/09/panther-test-your-symfony-apps-with-real-web-browsers-symfonylive-london-slides/)<br>
 
 [Guriosity](https://guriosity.com/backend)<br>
 [Apify](https://www.apify.com/)<br>
@@ -127,3 +128,4 @@ Just a veille file - fork me!
 .[jolicode](https://jolicode.com/blog/)<br>
 .[Elec Signature](https://codepen.io/goker/pen/kbEdn).<br> 
 .[Modern CSS](https://moderncss.dev/)<br>
+[la ferme du web](https://www.lafermeduweb.net/tag/symfony)<br>
