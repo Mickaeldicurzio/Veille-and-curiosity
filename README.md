@@ -38,6 +38,8 @@ Just a veille file - fork me!
 
 [memoisation](https://www.jesuisundev.com/comprendre-la-memoisation-en-5-minutes/)<br>
 [APIRest](https://practicalprogramming.fr/node-js-api/)<br>
+[Moiva.io - Discover and Compare NPM packages](https://moiva.io/)<br>
+[bundlejs](https://bundlejs.com/?q=slick)<br>
 
 ## --- Front-end ---
 
