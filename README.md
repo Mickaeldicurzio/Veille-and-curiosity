@@ -9,6 +9,16 @@ Just a veille file - fork me!
 
 ## --- Back-end ---
 
+### -- Symfony  ---
+
+[http2](https://symfony.com/doc/current/web_link.html)<br>
+[Mercure](https://symfony.com/blog/symfony-gets-real-time-push-capabilities)<br>
+[strategy](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
+[specification](https://connect.adfab.fr/dev/comment-gerer-ses-regles-metiers-grace-au-pattern-specification)<br>
+[real time](https://les-tilleuls.coop/blog/mercure-un-protocole-pour-pousser-des-mises-a-jour-vers-des-navigateurs-et-app-mobiles-en-temps-reel)<br>
+[Vulcain](https://github.com/dunglas/vulcain)
+[Frankenphp](https://frankenphp.dev/)<br>
+
 [Guriosity](https://guriosity.com/backend)<br>
 [Apify](https://www.apify.com/)<br>
 [Rails Tutorial](https://www.railstutorial.org/book)<br>
