@@ -122,6 +122,7 @@ Just a veille file - fork me!
 [Loader](https://loading.io/)<br>
 [Spinner](https://github.com/n3r4zzurr0/svg-spinners)<br>
 [hero background](https://heropatterns.com/)<br>
+[iconoir](https://iconoir.com/)<br>
 
 ### Veille website:
 
