@@ -96,8 +96,8 @@ Just a veille file - fork me!
 [scenecss](https://github.com/daybrush/scenejs)<br>
 [css backgrouns](https://speckyboy.com/css-background-effects/)<br>
 [Leonardo Color](https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02)<br>
-[Gradient](https://www.eggradients.com/category/red-gradient)
-
+[Gradient](https://www.eggradients.com/category/red-gradient)<br>
+[New css cheat](https://speakerdeck.com/goetter/ah-tu-peux-faire-ca-en-css-maintenant?slide=77)
 ## --- Others ---
 
 ### Linux
@@ -129,4 +129,6 @@ Just a veille file - fork me!
 .[jolicode](https://jolicode.com/blog/)<br>
 .[Elec Signature](https://codepen.io/goker/pen/kbEdn).<br> 
 .[Modern CSS](https://moderncss.dev/)<br>
-[la ferme du web](https://www.lafermeduweb.net/tag/symfony)<br>
+.[la ferme du web](https://www.lafermeduweb.net/tag/symfony)<br>
+
+
