@@ -132,3 +132,17 @@ Just a veille file - fork me!
 .[la ferme du web](https://www.lafermeduweb.net/tag/symfony)<br>
 
 
+### Ebook Command cheat sheat
+
+convert all image of a folder to webp to jpeg :
+
+    for d in {01..19}; do for i in Tome-$d/*.webp; do name=`echo "$i" | cut -d'.' -f1`; echo "$name"; convert "$i" "${name}.jpg"; done ; done
+
+Zip all folder : 
+
+    for i in {01..19}; do zip -r Tome-$i.zip Tome-$i ; done
+
+transform a pdf to a images folder
+
+    for i in {01..09}; do  mkdir Tome-$i && pdftoppm -jpeg Tome-$i.pdf ./Tome-$i/page ; done
+
