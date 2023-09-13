@@ -146,3 +146,9 @@ transform a pdf to a images folder
 
     for i in {01..09}; do  mkdir Tome-$i && pdftoppm -jpeg Tome-$i.pdf ./Tome-$i/page ; done
 
+execute python script for compress all .cbz file in a folder
+
+    python3 resize.py *.cbz
+
+    ( use resize.py file from root in repository )
+
