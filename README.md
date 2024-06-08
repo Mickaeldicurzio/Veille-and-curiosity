@@ -14,8 +14,10 @@ Just a veille file - fork me!
 
 #### --- pattern ----
 
-
 [circuit breaker](https://medium.com/@dotcom.software/circuit-breaker-pattern-in-php-10ee1b35e14d)<br>
+[DDD vite fais](https://lesdieuxducode.com/blog/2019/7/introduction-au-domain-driven-design)<br>
+[DDDViteFait doc](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)<br>
+
 
 #### ---
 
@@ -36,7 +38,6 @@ Just a veille file - fork me!
 [REGEX PHONE NUMBER]( ^((\+)33|0|0033)[1-9](\d{2}){4}$ )<br>
 [Gitignore.io](https://gitignore.io/)<br>
 [git sheetSheat ](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)<br>
-[DDDViteFait](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)<br>
 [passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)<br>
 [Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)<br>
 [SPECIFICATION](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
