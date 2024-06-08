@@ -17,7 +17,7 @@ Just a veille file - fork me!
 [strategy](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
 [specification](https://connect.adfab.fr/dev/comment-gerer-ses-regles-metiers-grace-au-pattern-specification)<br>
 [real time](https://les-tilleuls.coop/blog/mercure-un-protocole-pour-pousser-des-mises-a-jour-vers-des-navigateurs-et-app-mobiles-en-temps-reel)<br>
-[Vulcain](https://github.com/dunglas/vulcain)
+[Vulcain](https://github.com/dunglas/vulcain)<br>
 [Frankenphp](https://frankenphp.dev/)<br>
 [Panther](https://dunglas.dev/2018/09/panther-test-your-symfony-apps-with-real-web-browsers-symfonylive-london-slides/)<br>
 
@@ -29,12 +29,12 @@ Just a veille file - fork me!
 [Gitignore.io](https://gitignore.io/)<br>
 [git sheetSheat ](http://ndpsoftware.com/git-cheatsheet.html#loc=stash;)<br>
 [DDDViteFait](http://blog.infosaurus.fr/public/docs/DDDViteFait.pdf)<br>
-[passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)
+[passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)<br>
 [Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)<br>
-[SPECIFICATION](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)
+[SPECIFICATION](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
 
 ### Dart :
-[Learn Flutter](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm)
+[Learn Flutter](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm)<br>
 
 ### Js:
 
@@ -66,8 +66,8 @@ Just a veille file - fork me!
 
 #### layload
 
-[ lazoad ( small ) ](https://www.npmjs.com/package/lozad)
-[ lazysizes ( complex ) / patagonia  ](https://github.com/aFarkas/lazysizes)
+[ lazoad ( small ) ](https://www.npmjs.com/package/lozad)<br>
+[ lazysizes ( complex ) / patagonia  ](https://github.com/aFarkas/lazysizes)<br>
 
 [chart](https://gionkunz.github.io/chartist-js/)<br>
 [Amplitude Js](https://521dimensions.com/open-source/amplitudejs)<br>
@@ -97,7 +97,7 @@ Just a veille file - fork me!
 [css backgrouns](https://speckyboy.com/css-background-effects/)<br>
 [Leonardo Color](https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02)<br>
 [Gradient](https://www.eggradients.com/category/red-gradient)<br>
-[New css cheat](https://speakerdeck.com/goetter/ah-tu-peux-faire-ca-en-css-maintenant?slide=77)
+[New css cheat](https://speakerdeck.com/goetter/ah-tu-peux-faire-ca-en-css-maintenant?slide=77)<br>
 ## --- Others ---
 
 ### Linux
