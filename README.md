@@ -11,6 +11,14 @@ Just a veille file - fork me!
 
 ### -- Symfony  ---
 
+
+#### --- pattern ----
+
+
+[circuit breaker](https://medium.com/@dotcom.software/circuit-breaker-pattern-in-php-10ee1b35e14d)<br>
+
+#### ---
+
 [parse secret](https://github.com/mazen160/secrets-patterns-db)<br>
 [http2](https://symfony.com/doc/current/web_link.html)<br>
 [Mercure](https://symfony.com/blog/symfony-gets-real-time-push-capabilities)<br>
