@@ -41,6 +41,7 @@ Just a veille file - fork me!
 [passwords for user](https://symfonycasts.com/screencast/symfony-security/user-password)<br>
 [Axios cheet](https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index)<br>
 [SPECIFICATION](https://www.babeuloula.fr/blog/le-design-pattern-strategy-dans-symfony.html)<br>
+[APIPlatform extension](https://symfonycasts.com/screencast/api-platform-extending/custom-resource)<br>
 
 ### Dart :
 [Learn Flutter](https://www.tutorialspoint.com/flutter/flutter_database_concepts.htm)<br>
