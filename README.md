@@ -22,6 +22,7 @@ Just a veille file - fork me!
 #### ---
 
 
+[honeypot](https://www.yann-elias.com/blog/proteger-ses-formulaires-des-spams-en-creant-un-honeypot-avec-symfony-et-fail2ban)<br>
 [multi tenant in symfony](https://les-tilleuls.coop/blog/application-multi-tenant-api-platform-symfony-doctrine-3)<br>
 [parse secret](https://github.com/mazen160/secrets-patterns-db)<br>
 [http2](https://symfony.com/doc/current/web_link.html)<br>
