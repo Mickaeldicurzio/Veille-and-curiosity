@@ -33,6 +33,7 @@ Just a veille file - fork me!
 [Vulcain](https://github.com/dunglas/vulcain)<br>
 [Frankenphp](https://frankenphp.dev/)<br>
 [Panther](https://dunglas.dev/2018/09/panther-test-your-symfony-apps-with-real-web-browsers-symfonylive-london-slides/)<br>
+[Semaphore](https://symfony.com/doc/current/components/semaphore.html)
 
 [Guriosity](https://guriosity.com/backend)<br>
 [Apify](https://www.apify.com/)<br>
